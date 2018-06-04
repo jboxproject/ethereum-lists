@@ -8760,9 +8760,9 @@
 	},
 	{
 		"symbol": "JBX",
-		"address": "0x0Aaf561eFF5BD9c8F911616933F84166A17cfE0C",
-		"decimals": 0,
-		"name": "JBX",
+		"address": "0x884e3902C4d5cFA86de4aCE7A96AA91EbC25C0Ff",
+		"decimals": 18,
+		"name": "Jbox",
 		"ens_address": "",
 		"website": "https://www.jboxcoin.org",
 		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
